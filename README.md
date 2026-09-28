@@ -1,5 +1,7 @@
 # Personal research website
 
+http://xismoos.github.io/Simon-Homepage/
+
 This starter adapts the [Aerial Robotics Group website](https://github.com/AerialRoboticsGroup/aerialroboticsgroup.github.io), built on [al-folio](https://github.com/alshedivat/al-folio). The layout, typography, project cards, and dark/light switch are included. The original MIT license is preserved in `LICENSE`.
 
 ## What to edit later
