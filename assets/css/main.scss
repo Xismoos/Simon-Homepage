@@ -23,3 +23,9 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.social.profile-social .contact-icons {
+  font-size: 1.25rem;
+  text-align: center;
+  margin-top: 0.75rem;
+}
