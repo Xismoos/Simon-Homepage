@@ -1,4 +1,4 @@
-Personal research website
+# Personal research website
 
 This starter adapts the [Aerial Robotics Group website](https://github.com/AerialRoboticsGroup/aerialroboticsgroup.github.io), built on [al-folio](https://github.com/alshedivat/al-folio). The layout, typography, project cards, and dark/light switch are included. The original MIT license is preserved in `LICENSE`.
 
