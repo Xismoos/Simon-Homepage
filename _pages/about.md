@@ -65,7 +65,7 @@ The system is primarily built around **OpenVINS**, ROS 2, synchronized camera + 
 
 ---
 
-### 🌿 UAV Tracking of Dynamic Objects
+### UAV Tracking of Dynamic Objects
 
 Another research direction explores autonomous UAV tracking of **moving and deformable objects**, such as tree branches affected by wind.
 
@@ -86,7 +86,7 @@ The objective is to enable the drone to continuously adapt its motion while foll
 
 ---
 
-### 📊 VIO Evaluation & Benchmarking Toolkit
+### VIO Evaluation & Benchmarking Toolkit
 
 I am also developing tools for evaluating Visual-Inertial Odometry algorithms using datasets such as **EuRoC MAV**.
 
@@ -124,41 +124,6 @@ Started development of a UAV VIO dataset and evaluation pipeline.
 **2026-06**  
 Development of real-time Visual-Inertial Odometry experiments for embedded UAV platforms.
 
-
-<br>
-
-## 🛠 Selected Projects
----
-
-### ROS 2 Camera + IMU Dataset Recorder
-
-A ROS 2 based recording pipeline designed for synchronized camera and IMU data collection.
-
-Target platforms include:
-
-- Raspberry Pi 5,
-- NVIDIA Jetson,
-- global-shutter cameras,
-- MAVLink / flight-controller IMUs.
-
-Recorded datasets can be used directly for VIO evaluation and algorithm development.
-
-[View Project](#)
-
----
-
-### Real-Time Stereo Visual Odometry
-
-Experimental stereo Visual Odometry pipeline based on:
-
-1. stereo rectification,
-2. feature detection,
-3. feature tracking,
-4. stereo triangulation,
-5. PnP motion estimation,
-6. trajectory evaluation.
-
-[View Project](#)
 
 <br>
 
