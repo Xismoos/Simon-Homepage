@@ -32,8 +32,6 @@ latest_posts:
 
 ## About Me
 
-## About Me
-
 Hi! I'm **Šimon Prokop**, a PhD researcher at **Brno University of Technology**, currently working in the areas of **autonomous robotics, UAVs, computer vision, and Visual-Inertial Odometry**.
 
 My research focuses mainly on reliable state estimation and autonomous navigation for small aerial robots operating in **GNSS-denied environments**.
