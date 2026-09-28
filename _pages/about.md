@@ -35,9 +35,6 @@ I am currently interested in combining classical geometric methods such as **Vis
 - Autonomous UAV Navigation
 - Computer Vision
 - State Estimation
-- SLAM
-- Continual Learning
-- Adaptive Robotics
 - ROS / ROS 2
 - Embedded Robotics
 
@@ -117,34 +114,19 @@ The goal is to create a simple and reproducible framework for comparing multiple
 **2026-09**  
 Visiting research stay at the **University of Bristol**.
 
-**2026-09**  
+**2026-07**  
 Started research on adaptive UAV tracking using Visual-Inertial Odometry and continual learning.
 
-**2026-08**  
+**2026-06**  
 Started development of a UAV VIO dataset and evaluation pipeline.
 
 **2026-06**  
 Development of real-time Visual-Inertial Odometry experiments for embedded UAV platforms.
 
+
 <br>
 
 ## 🛠 Selected Projects
-
-### OpenVINS Experiment Framework
-
-Tools for running, logging and evaluating OpenVINS experiments using public and custom datasets.
-
-Features include:
-
-- automated experiment folders,
-- configuration logging,
-- trajectory export,
-- ATE/RPE evaluation,
-- reproducible dataset experiments.
-
-[View Project](#)
-
----
 
 ### ROS 2 Camera + IMU Dataset Recorder
 
@@ -248,9 +230,7 @@ My long-term research goal is to develop autonomous robotic systems that can ope
 
 I am particularly interested in combining:
 
-> **geometric robotics + state estimation + adaptive machine learning**
-
-to improve robustness in situations where traditional robotics algorithms begin to fail.
+> **geometric robotics + state estimation**
 
 <br>
 
