@@ -41,7 +41,7 @@ I am currently interested in combining classical geometric methods such as **Vis
 <br>
 
 ## 🚀 Current Research
-
+---
 ### Adaptive Visual-Inertial Odometry for UAVs
 
 My current research investigates **robust Visual-Inertial Odometry for small multirotor UAVs** operating indoors and in GNSS-denied environments.
@@ -110,6 +110,7 @@ The goal is to create a simple and reproducible framework for comparing multiple
 <br>
 
 ## 📰 News
+---
 
 **2026-09**  
 Visiting research stay at the **University of Bristol**.
@@ -127,6 +128,7 @@ Development of real-time Visual-Inertial Odometry experiments for embedded UAV p
 <br>
 
 ## 🛠 Selected Projects
+---
 
 ### ROS 2 Camera + IMU Dataset Recorder
 
@@ -161,7 +163,7 @@ Experimental stereo Visual Odometry pipeline based on:
 <br>
 
 ## 📚 Publications
-
+---
 _Work in progress._
 
 <!-- Example:
@@ -177,7 +179,7 @@ _Work in progress._
 <br>
 
 ## 🎓 Education & Research
-
+---
 ### Brno University of Technology
 
 **PhD Researcher**
@@ -201,7 +203,7 @@ Research collaboration focused on autonomous UAV navigation, Visual-Inertial Odo
 <br>
 
 ## 💻 Technical Skills
-
+---
 **Programming**
 
 `C++` `Python` `Bash` `MATLAB`
@@ -225,7 +227,7 @@ Research collaboration focused on autonomous UAV navigation, Visual-Inertial Odo
 <br>
 
 ## 📈 Research Goals
-
+---
 My long-term research goal is to develop autonomous robotic systems that can operate reliably in complex environments without depending on external positioning infrastructure.
 
 I am particularly interested in combining:
@@ -235,7 +237,7 @@ I am particularly interested in combining:
 <br>
 
 ## 📬 Contact
-
+---
 Feel free to contact me regarding research collaboration, robotics projects, Visual-Inertial Odometry or UAV research.
 
 **Email:** 221488@vut.cz  
