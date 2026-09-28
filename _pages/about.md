@@ -3,17 +3,34 @@ layout: about
 title: About
 permalink: /
 subtitle: PhD researcher · UAV robotics · Visual-Inertial Odometry
+
 profile:
   align: right
   image: portrait.jpg
   image_circular: false
+  more_info: >
+    <div style="display:flex; justify-content:center; align-items:center; gap:18px; margin-top:12px; font-size:1.25rem;">
+      <a href="mailto:221488@vut.cz" title="Email" aria-label="Email">
+        <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+      </a>
+      <a href="https://github.com/Xismoos" title="GitHub" aria-label="GitHub">
+        <i class="fa-brands fa-github" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/simon-prokop/" title="LinkedIn" aria-label="LinkedIn">
+        <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+      </a>
+    </div>
+
 selected_papers: false
-social: true
+social: false
+
 announcements:
   enabled: false
 latest_posts:
   enabled: false
 ---
+
+## About Me
 
 ## About Me
 
