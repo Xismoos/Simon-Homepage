@@ -15,10 +15,6 @@ latest_posts:
   enabled: false
 ---
 
----
-layout: default
----
-
 ## About Me
 
 Hi! I'm **Šimon Prokop**, a PhD researcher at **Brno University of Technology**, currently working in the areas of **autonomous robotics, UAVs, computer vision, and Visual-Inertial Odometry**.
